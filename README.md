@@ -5,7 +5,7 @@ Project 1 - Getting and Clean Data
 Assignment Files Submission --- 
 
       1. Run_analysis.R
-      2. Codebook.md
+      2. Codebook.txt
       3. Readme.md
       4. calculated_tidy_data.txt
       5. merged_tidy_set
